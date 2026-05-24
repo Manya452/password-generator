@@ -5,23 +5,31 @@ This project allows users to generate strong and secure passwords with customiza
 
 ---
 
-## 🚀 Live Features
+## 🌐 Live Demo
 
-✨ Generate strong random passwords  
-✨ Adjustable password length  
-✨ Include/exclude:
+👉 [View Live Project](https://Manya452.github.io/password-generator/)
+
+
+
+---
+
+## 🚀 Features
+
+✅ Generate secure random passwords  
+✅ Adjustable password length  
+✅ Include:
 - Uppercase Letters
 - Lowercase Letters
 - Numbers
 - Symbols
 
-✨ One-click copy to clipboard  
-✨ Responsive and clean user interface  
-✨ Beginner-friendly JavaScript project
+✅ One-click copy to clipboard  
+✅ Responsive modern UI  
+✅ Beginner-friendly JavaScript project
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -29,11 +37,27 @@ This project allows users to generate strong and secure passwords with customiza
 
 ---
 
-## 📁 Project Structure
+## 📸 Screenshots
+
+### 🖥️ Main UI
+
+![Main UI](home.png)
+
+---
+
+### 🔑 Generated Password
+
+![Generated Password](generated-password.png)
+
+---
+
+## 📂 Project Structure
 
 ```bash
 password-generator/
 │
+├── home.png
+├── generated-password.png
 ├── index.html
 ├── style.css
 ├── script.js
@@ -51,43 +75,32 @@ password-generator/
 
 ---
 
-## 📸 Project Preview
-
-The application includes:
-- Interactive UI
-- Dynamic password generation
-- Clipboard functionality
-- Fully responsive design
-
----
-
 ## 🧠 Concepts Used
 
 - DOM Manipulation
 - Event Listeners
 - Random Number Generation
 - String Manipulation
-- JavaScript Functions
 - Responsive CSS Design
 
 ---
 
-## 💡 Future Enhancements
+## 💡 Future Improvements
 
-- Password Strength Indicator
-- Dark/Light Theme Toggle
-- Password History Feature
-- Animated UI Effects
-- Mobile App Version
+- Password Strength Meter
+- Dark/Light Mode
+- Password History
+- Better Animations
+- Mobile Optimization
 
 ---
 
-## 📌 Installation & Usage
+## 📌 Installation
 
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/yourusername/password-generator.git
 ```
 
 Open the project folder and run:
@@ -100,21 +113,12 @@ OR use **Live Server** in VS Code.
 
 ---
 
-## 🌐 GitHub Repository
-
-Upload this project to GitHub to showcase:
-- Frontend Development Skills
-- JavaScript Logic Building
-- UI Design Fundamentals
-
----
-
 ## 👩‍💻 Author
 
-Manya Gupta
+**Manya Gupta**
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a ⭐ on GitHub and share it with others.
+If you like this project, give it a ⭐ on GitHub.
