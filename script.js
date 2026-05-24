@@ -15,11 +15,9 @@ const lowerChars = "abcdefghijklmnopqrstuvwxyz";
 const numberChars = "0123456789";
 const symbolChars = "!@#$%^&*()_+[]{}";
 
-
 lengthSlider.addEventListener("input", () => {
   lengthValue.textContent = lengthSlider.value;
 });
-
 
 generateBtn.addEventListener("click", () => {
   let allChars = "";
