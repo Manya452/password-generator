@@ -1,129 +1,121 @@
-# 🔐 Password Generator
+# 🔐 Advanced Password Generator
 
-A modern and responsive Password Generator web application built using **HTML, CSS, and JavaScript**.  
-This project helps users generate strong and secure passwords with customizable options such as uppercase letters, lowercase letters, numbers, and symbols.
-
----
+A modern and responsive Password Generator built using HTML, CSS, and JavaScript. Generate strong and secure passwords instantly with customizable options, password strength analysis, password history, dark/light mode, and clipboard support.
 
 ## 🌐 Live Demo
 
-👉 [View Live Project](https://Manya452.github.io/password-generator/)
+https://manya452.github.io/password-generator/
 
----
+## ✨ Features
 
-## 🚀 Features
-
-✅ Generate strong random passwords  
-✅ Adjustable password length  
-✅ Include:
-- Uppercase Letters
-- Lowercase Letters
-- Numbers
-- Symbols
-
-✅ One-click copy to clipboard  
-✅ Responsive and modern UI  
-✅ Beginner-friendly JavaScript project
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
----
+* 🔑 Generate secure random passwords
+* 📏 Adjustable password length
+* 🔠 Include Uppercase Letters
+* 🔡 Include Lowercase Letters
+* 🔢 Include Numbers
+* 🔣 Include Symbols
+* 💪 Real-time Password Strength Indicator
+* 📋 Copy Password to Clipboard
+* 👁️ Show / Hide Password
+* 🌙 Dark & Light Theme Toggle
+* 🕒 Recent Password History
+* 💾 Local Storage Support
+* 📱 Responsive Design
 
 ## 📸 Screenshots
 
-### 🖥️ Main Interface
+Add screenshots of your project here.
 
-![Main UI](home.png)
+Example:
 
----
+screenshots/home.png
 
-### 🔑 Generated Password Example
+screenshots/dark-mode.png
 
-![Generated Password](generated-password.png)
+screenshots/light-mode.png
 
----
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
 
 ## 📂 Project Structure
 
-```bash
 password-generator/
-│
-├── home.png
-├── generated-password.png
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
+├── screenshots/
+
+│   ├── home.png
+
+│   ├── dark-mode.png
+
+│   └── light-mode.png
+
 └── README.md
-```
 
----
+## 🚀 Getting Started
 
-## ⚙️ How It Works
+### Clone the Repository
 
-1. Select the password length using the slider
-2. Choose character types:
-   - Uppercase
-   - Lowercase
-   - Numbers
-   - Symbols
-3. Click on **Generate Password**
-4. Copy the generated password instantly
-
----
-
-## 🧠 JavaScript Concepts Used
-
-- DOM Manipulation
-- Event Listeners
-- Random Password Logic
-- String Manipulation
-- Clipboard API
-- Responsive UI Design
-
----
-
-## 💡 Future Improvements
-
-- Password Strength Meter
-- Dark / Light Mode
-- Password History
-- Better UI Animations
-- Mobile Optimization
-
----
-
-## 📌 Installation & Setup
-
-Clone the repository:
-
-```bash
 git clone https://github.com/Manya452/password-generator.git
-```
 
-Open the project folder and run:
+### Open the Project
 
-```bash
-index.html
-```
+cd password-generator
 
-OR use **Live Server** in VS Code.
+Open index.html in your browser.
 
----
+No additional installations or dependencies are required.
+
+## 🎯 Learning Outcomes
+
+This project helped me learn:
+
+* DOM Manipulation
+* Event Handling
+* JavaScript Functions
+* Random Password Generation Logic
+* Local Storage
+* Responsive Web Design
+* UI/UX Fundamentals
+* Theme Switching
+* Clipboard API
+
+## 🔮 Future Improvements
+
+* Password Entropy Calculator
+* Export Passwords to TXT File
+* Password Breach Detection API
+* Password Categories
+* Theme Persistence
+* Secure Password Vault
+* Password Generator Statistics
+
+## 🌐 Deployment
+
+This project is deployed using GitHub Pages and can be accessed from any device through the live demo link above.
 
 ## 👩‍💻 Author
 
-**Manya Gupta**
+### Manya Gupta
+
+Aspiring Software Engineer | Frontend Developer
 
 GitHub: https://github.com/Manya452
 
----
-
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub.
+If you found this project useful, please consider giving it a star on GitHub.
+
+It helps support the project and motivates future improvements.
+
+---
+
+Made with ❤️ using HTML, CSS and JavaScript.
